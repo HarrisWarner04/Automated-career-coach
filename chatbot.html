@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot Mentor</title>
+    <link rel="stylesheet" href="chatbot.css">
+</head>
+<body>
+    <div class="chat-container">
+        <h2>Mentor Chatbot</h2>
+        <input type="text" id="techStack" placeholder="Enter your tech stack">
+        <input type="text" id="duration" placeholder="Enter time duration (e.g., 3 months)">
+        <input type="text" id="qualification" placeholder="Enter last qualification">
+        <button onclick="getGuidance()">Get Guidance</button>
+        <div id="response"></div>
+    </div>
+    <div id="chatbot-container" style="display: none;">
+        <h2>AI Mentor Chatbot</h2>
+        <form id="chatbotForm">
+            <label for="techStack">Tech Stack:</label>
+            <input type="text" id="techStack" required>
+    
+            <label for="duration">Duration (in months):</label>
+            <input type="number" id="duration" required>
+    
+            <label for="qualification">Last Qualification:</label>
+            <input type="text" id="qualification" required>
+    
+            <button type="submit">Get Guidance</button>
+        </form>
+    
+        <div id="response"></div> 
+    </div>
+    
+    <script src="chatbot.js"></script>
+</body>
+</html>

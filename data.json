@@ -1,0 +1,21 @@
+{
+  "roadmaps": {
+    "web development": "https://roadmap.sh/full-stack",
+    "data science": "https://roadmap.sh/ai-data-scientist",
+    "machine learning": "https://roadmap.sh/ai-engineer",
+    "cyber security": "https://roadmap.sh/cyber-security",
+    "data analyst" : "https://roadmap.sh/data-analyst",
+    "devops" : "https://roadmap.sh/devops",
+    "block chain" : "https://roadmap.sh/blockchain"
+  },
+
+  "youtube": {
+    "web development": "https://youtu.be/nu_pCVPKzTk?si=r6AQ03h2z2smlI7g",
+    "data science": "https://youtu.be/ua-CiDNNj30?si=ToHdCKezMW9iSXgX",
+    "machine learning": "https://youtu.be/NWONeJKn6kc?si=7Y6I5n4HYyTIwvMh",
+    "cyber security": "https://youtu.be/s19BxFpoSd0?si=IC0_hqSPCZa9OUWC",
+    "data analyst" : "https://youtu.be/VaSjiJMrq24?si=1Xz6-gMfGkBk45N5",
+    "devops": "https://youtu.be/hQcFE0RD0cQ?si=3bBVM4f8G-xuoRL2",
+    "block chain" : "https://youtu.be/6aF6p2VUORE?si=FyiaEqSQ_la_GRKb"
+  }
+}
